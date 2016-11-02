@@ -1,1 +1,1 @@
-# nyaan.github.io
+# nyaan.jp
