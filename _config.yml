@@ -1,0 +1,7 @@
+nyaan:
+  domain: 'nyaan.jp'
+  author: 'azumakuniyuki'
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
